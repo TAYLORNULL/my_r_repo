@@ -1,4 +1,4 @@
-### Lab 13 
+### Lab 13 3
 
 x = rnorm(100, mean = 20, sd = 5)
 y = x + rnorm(100, mean = 0, sd = 2)
